@@ -11,8 +11,9 @@ Rigging & TD & AI Beginner
 * [**bilibili**](https://space.bilibili.com/351598127)
 * [**个人主站 Personal Website**](https://www.bennyhuo.com)
 
-# 个人项目（Top 3） Personal Projects (Top 3)
+# 个人项目（Top 4） Personal Projects (Top 4)
 
+* [**Pandora**](https://github.com/cpcgskill/Pandora) - 一个自己的大模型项目（其实只有1B）。A big model project of my own (actually only 1B).
 * [**SGT**](https://github.com/cpcgskill/sgt) - 一个通用ai运行及训练后端。A general AI running and training backend.
 * [**Pyeal**](https://github.com/cpcgskill/pyeal) - Python打包工具， 可以将Python程序打包成一系列独立的Python模块与包， 用于在各类需要与其他人共享运行环境的场合。A Python packaging tool that can package Python programs into a series of independent Python modules and packages for use in various situations where you need to share the runtime environment with others.
 * [**Rigging Dev Kit**](https://github.com/cpcgskill/maya_rig_core) - 一个用于快速开发maya绑定工具的工具链（链接里的只是Core）。A toolchain for quickly developing Maya rigging tools (the link is just Core). 
