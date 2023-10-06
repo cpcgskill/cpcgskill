@@ -9,6 +9,8 @@ Rigging & TD & AI Beginner
 * [**GitHub**](https://github.com/cpcgskill/cpcgskill)
 * [**YouTube**](https://www.youtube.com/channel/UC6TrVxb3-mEMTQbzxgdFS5A)
 * [**bilibili**](https://space.bilibili.com/351598127)
+* [**知乎 Zhihu**](https://www.zhihu.com/people/yan-yue-96-17)
+* [**Twitter**](https://twitter.com/cpcgskill)
 * [**个人主站 Personal Website**](https://www.bennyhuo.com)
 
 # 个人项目（Top 4） Personal Projects (Top 4)
