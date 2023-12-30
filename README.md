@@ -13,7 +13,7 @@ Rigging & TD & AI Beginner
 * [**Twitter**](https://twitter.com/cpcgskill)
 * [**个人主站 Personal Website**](https://www.cpcgskill.com)
 
-# 个人项目（Top 4） Personal Projects (Top 4)
+# 个人项目 Personal Projects (Top 4)
 
 * [**Pandora**](https://github.com/cpcgskill/Pandora) - 一个自己的大模型项目（其实只有1B）。A big model project of my own (actually only 1B).
 * [**SGT**](https://github.com/cpcgskill/sgt) - 一个通用ai运行及训练后端。A general AI running and training backend.
